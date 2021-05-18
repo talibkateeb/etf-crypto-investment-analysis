@@ -116,4 +116,4 @@ For a visual reference as to how the interface menu works, please refer to the b
 
 ## License
 
-![Click Here To View](https://github.com/talibkateeb/etf-crypto-investment-analysis/blob/main/LICENSE)
+[Click Here To View](https://github.com/talibkateeb/etf-crypto-investment-analysis/blob/main/LICENSE)
