@@ -68,7 +68,6 @@ What we plan to visualize:
 *   Daily returns of all assets
 *   Cumulative returns of all assets
 *   Standard Deviation and Annualized Standarfd Deviation
-*   Rolling Beta and Rolling Covariance (potentially)
 *   4 year Monte Carlo Simulations
 
 ---
@@ -108,9 +107,10 @@ For a visual reference as to how the interface menu works, please refer to the b
 
 ## Contributors
 
-Talib Kateeb
-Tim Kipper
-Santiago Rosas
+*  Talib Kateeb
+*  Tim Kipper
+*  Santiago Rosas
+*  John Richardson
 
 ---
 
