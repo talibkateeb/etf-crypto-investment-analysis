@@ -44,6 +44,8 @@ Visualizations that the project produces in the Jupyter Notebook
 
 This application runs on python version 3.7, with the following add-ons:
 
+* [Jupyter](https://jupyter.org/) - A development tool for interactive programming.
+
 * [Pandas](https://pandas.pydata.org/) - A python librart for data analysis and manipulation.
 
 * [Numpy](https://numpy.org/) - A python library for mathematical and scientific computing.
@@ -54,21 +56,29 @@ This application runs on python version 3.7, with the following add-ons:
 
 ## Installation Guide
 
+Download and set up Jupyter Lab with Anaconda: [Click here](https://www.anaconda.com/products/individual)
+
 Before using running the application in the Jupyter notebook, install the required packages by entering this command in the terminal:
 
-*    pip install -r requirements.txt
+    pip install -r requirements.txt
+
+Open Anaconda and run Jupyter lab. Go to project directory and open the file named:
+
+    Investment_Analyzer.ipynb
+
+Click on each cell to run individually:
+
+    Shift + Enter
 
 ---
 
 ## Example
 
-For a visual reference as to how the interface menu works, please refer to the below animation:
+Below are 2 examples. The first is an example of a code cell that you can run in Jupyter. The second is an example of an analysis slide from the link above.
 
-![File name 1](images/file name1)
+![Code Example]()
 
-![File name 2](images/file name2)
-
-![File name 3](images/file name3)
+![Analysis Example]()
 
 ---
 
