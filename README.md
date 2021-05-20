@@ -1,18 +1,10 @@
 # ETF and Crypto Investment Analyzer
 
-A Python / Jupyter Lab analysis comparing traditional investments (Exchange Trade Funds, Mutual Funds) to the new, developing investment vehicle, cryptocurrency.
+A Python / Jupyter Lab analysis comparing traditional investments (Exchange Trade Funds) to the new, developing investment vehicle, cryptocurrency.
 
-This comparison allows for users to determine how they would like to customize their investment portfolio on the basis of a few simple questions:
+This comparison allows for users to compare returns from investing in ETFs vs. investing in cryptocurrency.
 
-* Available funds for investment
-
-* Risk tolerance
-
-* Personal preference (allowing for the selection of the different investments available)
-
-* (placeholder)
-
-The end result is a series of visuals demonstrating varying projected profits, depending on the answers submitted in the questionaire.
+[The full analysis slides can be found here](https://docs.google.com/presentation/d/1TsA_cX01HAS693cJMLlF2W4wtb4H2gIBvtciaqrwB0E/edit?usp=sharing)
 
 ---
 
@@ -22,12 +14,12 @@ The selected Exchange Traded Funds (ETFs) are as follows:
 
 Exchange Traded Fund (ETF) Themes
 
-*    ICLN
-*    POTX
-*    URNM
-*    GDXJ
-*    SILJ
-*    Information is derived from [Nasdaq.com](https://www.nasdaq.com/)
+*    ICLN - iShares Global Clean Energy ETF
+*    POTX - Global X Cannabis ETF
+*    URNM - North Shore Global Uranium Mining ETF
+*    GDXJ - VanEck Vectors Junior Gold Miners ETF
+*    SILJ - ETFMG Prime Junior Silver ETF
+*    Information is derived from [Nasdaq.com](https://www.nasdaq.com/) and [etfdb.com](etfdb.com)
 
 
 The selected cryptocurrencies are as follows: 
@@ -38,31 +30,31 @@ The selected cryptocurrencies are as follows:
 *    ETH - Ethereum 
 *    BNB - Binance Coin
 *    BTC - Bitcoin
-*    Information is derived from [Investing.com](investing.com) and [Kaggle.com](https://www.kaggle.com)
+*    Information is derived from [Investing.com](investing.com), [Kaggle.com](https://www.kaggle.com), and [coinmarketcap.com](coinmarketcap.com)
 
-What we plan to visualize:
+Visualizations that the project produces in the Jupyter Notebook
 
-*   Daily returns of all assets
-*   Cumulative returns of all assets
-*   Standard Deviation and Annualized Standarfd Deviation
-*   4 year Monte Carlo Simulations
+*   Daily returns of ETFs and Cryptocurrencies (interactive line and box plots)
+*   Cumulative returns of ETFs and Cryptocurrencies (interactive line plots)
+*   Standard Deviation and Annualized Standarfd Deviation (interactive bar plots)
+*   Market Capitalization of ETFs and Cryptocurrencies (interactive bar plots)
 
 ---
 ## Technologies
 
 This application runs on python version 3.7, with the following add-ons:
 
-* [name1](URL) - Description
+* [Pandas](https://pandas.pydata.org/) - A python librart for data analysis and manipulation.
 
-* [name2](URL) - Description
+* [Numpy](https://numpy.org/) - A python library for mathematical and scientific computing.
 
-* [name3](URL) - Description
+* [hvplot](https://hvplot.holoviz.org/) - A high level API for plotting data.
 
 ---
 
 ## Installation Guide
 
-Before using the loan qualifier application, the following packages must be installed:
+Before using running the application in the Jupyter notebook, install the required packages by entering this command in the terminal:
 
 *    pip install -r requirements.txt
 
