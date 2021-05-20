@@ -22,32 +22,11 @@ The selected Exchange Traded Funds (ETFs) are as follows:
 
 Exchange Traded Fund (ETF) Themes
 
-*    FAN
-
-*    FTXL
-
 *    ICLN
-
-*    ITB
-
-*    MJ
-
-*    NLR
-
 *    POTX
-
-*    SMH
-
-*    SOXL
-
-*    TAN
-
 *    URNM
-
-*    XHB
-
-*    YOLO
-
+*    GDXJ
+*    SILJ
 *    Information is derived from [Nasdaq.com](https://www.nasdaq.com/)
 
 
@@ -57,11 +36,9 @@ The selected cryptocurrencies are as follows:
 *    BCH - Bitcoin Cash
 *    ADA - Cardano
 *    ETH - Ethereum 
-*    Binance Coin
-*    BTC
-*    Tether
-     
-*    Information is derived from [Investing.com](investing.com) and (Kaggle)[https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory]
+*    BNB - Binance Coin
+*    BTC - Bitcoin
+*    Information is derived from [Investing.com](investing.com) and [Kaggle.com](https://www.kaggle.com)
 
 What we plan to visualize:
 
@@ -87,9 +64,7 @@ This application runs on python version 3.7, with the following add-ons:
 
 Before using the loan qualifier application, the following packages must be installed:
 
-*    pip install XXX
-*    pip install XXX
-*    pip install XXX
+*    pip install -r requirements.txt
 
 ---
 
