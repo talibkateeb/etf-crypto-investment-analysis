@@ -36,7 +36,7 @@ Visualizations that the project produces in the Jupyter Notebook
 
 *   Daily returns of ETFs and Cryptocurrencies (interactive line and box plots)
 *   Cumulative returns of ETFs and Cryptocurrencies (interactive line plots)
-*   Standard Deviation and Annualized Standarfd Deviation (interactive bar plots)
+*   Standard Deviation and Annualized Standard Deviation (interactive bar plots)
 *   Market Capitalization of ETFs and Cryptocurrencies (interactive bar plots)
 
 ---
